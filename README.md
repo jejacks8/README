@@ -1,2 +1,2 @@
 # README
-A quick description of myself and programming history 
+Hello! If youre reading this thank you for checking out my github page. My name is Joseph Jackson and I have been designing and implementing programs for about four years now. I am a senior in Computer Science at North Carolina State University. I am profecient in C and Java, with some work in HTML, CSS, R and Python. I am seeking an internship in the fields of either software or systems engineering.
